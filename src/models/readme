@@ -1,1 +1,7 @@
-│ │ ├── cnn/ │ │ ├── svm/ │ │ ├── knn/ │ │ ├── trees/ │ │ ├── boosting/ │ │ └── logistic_regression/
+# one subfolder per model type
+#│ │ ├── cnn/ 
+#│ │ ├── svm/ 
+#│ │ ├── knn/ 
+#│ │ ├── trees/ 
+#│ │ ├── boosting/ 
+#│ │ └── logistic_regression/
