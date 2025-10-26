@@ -1,5 +1,19 @@
 # preprocessing scripts
-#│ │ ├── build_manifest.py 
-#│ │ ├── preprocess_images.py 
-#│ │ └── degrade_sets.py
+preprocess_pipeline_rgb.mlx
 
+Large image data are not stored in GitHub.
+
+To reproduce:
+
+1. Download the raw Mendeley Parasite Dataset (v3):
+   https://doi.org/10.17632/38jtn4nzs6.3
+
+2. Place it under:
+   for example, D:\LocalUser\42177 Project\raw\
+
+3. Run src/preprocess/preprocess_pipeline_rgb.mlx
+   to generate:
+     data/clean/     → normalized 256×256 images
+     data/degraded/  → degraded robustness sets
+
+4. Use data/manifest.csv for labels and subsets.
