@@ -1,0 +1,8 @@
+Row,babesia,leishmania,plasmodium,toxoplasma1000x,toxoplasma400x,trichomonad,trypanosome
+babesia,0,0,7,248,0,0,0
+leishmania,1,0,70,369,66,35,0
+plasmodium,0,0,76,55,8,31,0
+toxoplasma1000x,0,0,0,580,7,1,0
+toxoplasma400x,0,0,0,0,753,0,0
+trichomonad,0,0,98,1833,0,97,0
+trypanosome,0,0,0,335,141,0,1

@@ -1,0 +1,8 @@
+Metric,Value
+Accuracy,0.9607231920199502
+Precision,0.9722713187375712
+Recall,0.9390395044602462
+F1,0.9545344191676762
+TestElapsedSeconds,61.03
+Labels,"[""babesia"", ""leishmania"", ""plasmodium"", ""toxoplasma1000x"", ""toxoplasma400x"", ""trichomonad"", ""trypanosome""]"
+ConfusionMatrix,"[[239, 1, 1, 1, 0, 13, 0], [0, 442, 0, 2, 1, 90, 6], [1, 3, 156, 0, 1, 9, 0], [1, 2, 0, 568, 3, 3, 11], [0, 0, 0, 0, 753, 0, 0], [1, 10, 1, 0, 0, 2016, 0], [0, 8, 0, 5, 0, 15, 449]]"
