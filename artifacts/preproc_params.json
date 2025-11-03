@@ -1,0 +1,7 @@
+{
+  "target_h": 256,
+  "target_w": 256,
+  "color_mode": "rgb",
+  "normalization": "im2double_0to1",
+  "seed": 42177
+}
